@@ -1,0 +1,8 @@
+*.o
+*.png
+*.jpg
+*.pyc
+*.out
+
+build/
+.vscode/
