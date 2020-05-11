@@ -1,0 +1,9 @@
+#include <iostream>
+#include <opencv2/videoio.hpp>
+#include <opencv2/opencv.hpp>
+#include <thread>
+#include <string>
+#include <atomic>
+#include <signal.h>
+#include <cuda.h>
+#include "cameraProcess.h"

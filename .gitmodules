@@ -1,0 +1,3 @@
+[submodule "darknet"]
+	path = 3rdparty/darknet
+	url = https://github.com/pjreddie/darknet
